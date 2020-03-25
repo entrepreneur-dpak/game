@@ -1,4 +1,3 @@
-<script>
 
 var myGamePiece;
 var myObstacles = [];
@@ -116,4 +115,3 @@ function everyinterval(n) {
 function accelerate(n) {
     myGamePiece.gravity = n;
 }
-</script>
